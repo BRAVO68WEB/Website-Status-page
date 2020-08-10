@@ -1,7 +1,7 @@
 <?php // Get UpTimeRobot stats via cURL:
 
 // Replace with website API key:
-$api_key = 'REPLACE_WITH_YOUR_KEY';
+$api_key = ' ur966926-5e6c60ec16aa9a706753c154';
 
 // Build request:
 $request = 'api_key=' . $api_key . '&format=json&logs=1&log_types=1&logs_limit=1&all_time_uptime_ratio=1';
